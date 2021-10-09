@@ -27,7 +27,7 @@ If a 1 is rolled, the player, after moving, immediately rolls again for another 
 3. Press the spacebar to the the game<br>
 4. Press the 'enter'button(numpad) to roll the dice.
 
-# This project is tribute to my teacher
+### This project is tribute to my teacher
 ![win](https://user-images.githubusercontent.com/91353030/135787487-7fff2839-d5e0-4d65-a1a7-643727fdab5c.png)
 
 
